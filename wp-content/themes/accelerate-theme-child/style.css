@@ -84,7 +84,7 @@ ul {
 }
 
 ul li {
-    display: inline;
+    display: inline; /* remove circles */
 }
 
 .menu-item i._mi {
