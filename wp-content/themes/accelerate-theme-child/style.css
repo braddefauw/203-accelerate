@@ -199,22 +199,22 @@ div .case-study-images img {
     font-weight: 550;
 }
 
-.full-width img[src="http://localhost:8888/203-accelerate/wp-content/uploads/2021/04/bullseye.png"] {
+.full-width img[src*="bullseye"] {
     float:left;
     padding-right: 4em;
 }
 
-.full-width img[src="http://localhost:8888/203-accelerate/wp-content/uploads/2021/04/atom.png"] {
+.full-width img[src*="atom"] {
     float:right;
     padding-left: 4em;
 }
 
-.full-width img[src="http://localhost:8888/203-accelerate/wp-content/uploads/2021/04/like.png"] {
+.full-width img[src*="like"] {
     float:left;
     padding-right: 4em;
 }
 
-.full-width img[src="http://localhost:8888/203-accelerate/wp-content/uploads/2021/04/design.png"] {
+.full-width img[src*="design"] {
     float:right;
     padding-left: 4em;
 }
