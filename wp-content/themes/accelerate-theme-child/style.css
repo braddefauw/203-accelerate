@@ -176,6 +176,9 @@ div .case-study-images img {
     width: 50%;
     font-size: 1.5em;
 }
+.our-services {
+    margin-bottom: 4em;
+}
 
 .our-services h2, .our-services p {
     text-align: center;
@@ -189,11 +192,31 @@ div .case-study-images img {
 
 .full-width {
     width: 100%;
-    height: 200px;
+    height: 300px;
 }
 
 .full-width h3 {
     font-weight: 550;
+}
+
+.full-width img[src="http://localhost:8888/203-accelerate/wp-content/uploads/2021/04/bullseye.png"] {
+    float:left;
+    padding-right: 4em;
+}
+
+.full-width img[src="http://localhost:8888/203-accelerate/wp-content/uploads/2021/04/atom.png"] {
+    float:right;
+    padding-left: 4em;
+}
+
+.full-width img[src="http://localhost:8888/203-accelerate/wp-content/uploads/2021/04/like.png"] {
+    float:left;
+    padding-right: 4em;
+}
+
+.full-width img[src="http://localhost:8888/203-accelerate/wp-content/uploads/2021/04/design.png"] {
+    float:right;
+    padding-left: 4em;
 }
 
 .contact h2{
