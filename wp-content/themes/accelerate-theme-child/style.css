@@ -169,6 +169,9 @@ div .case-study-images img {
     display: flex;
     align-items: center;
 }
+.about-page .main-content {
+    padding-top: 0em;
+}
 
 .about-page div p {
     color: white;
