@@ -72,6 +72,8 @@ WPEngine Ticket # 4718002
     font-size: 1em;
 }
 
+
+
 .menu-social-media-nav-container {
     margin-top: 1em;
     display: flex;
@@ -179,7 +181,7 @@ div .case-study-images img {
     width: 50%;
     font-size: 1.5em;
 }
-.our-services {
+.about-page .our-services {
     margin-bottom: 4em;
 }
 
@@ -187,10 +189,9 @@ div .case-study-images img {
     text-align: center;
 }
 
-.site-content {
+.services .site-content {
     width: 80%;
     border-bottom: 1px solid #bfbfbf;
-    min-height: 1000px;
 }
 
 .full-width {
