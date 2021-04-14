@@ -228,3 +228,23 @@ div .case-study-images img {
     margin-left: 1em;
     margin-right: 1em;
 }
+
+/* 404 page */
+.fourohfour-page {
+    background: url('https://www.newzealand.com/assets/Tourism-NZ/Other/fca2b2c281/img-1536128208-2095-29249-p-A25F3E94-DBBC-66E3-8A49D0F6CEE09647-2544003__aWxvdmVrZWxseQo_FocalPointCropWzQyMCw5NjAsNTAsNTAsNzUsImpwZyIsNjUsMi41XQ.jpg') no-repeat scroll right center / cover rgba(0, 0, 0, 0);
+    height: 400px;
+    width: 100%;
+}
+
+.fourohfour-page-content{
+    text-align: right;
+}
+
+.fourohfour-page-content p{
+    font-weight: bold;
+    font-family: 'Londrina Solid', cursive;
+}
+
+.fourohfour-page-content h1, .fourohfour-page-content h2 {
+    font-family: 'Londrina Solid', cursive;
+}
