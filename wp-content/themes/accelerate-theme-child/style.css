@@ -25,9 +25,10 @@ WPEngine Ticket # 4718002
 }
 
 .blog-post {
-    width: 50%;
+    width: 40%;
     float: left;
     margin-bottom: 2em;
+    margin-right: 5em;
 }
 
 .blog-post h4 {
@@ -128,6 +129,13 @@ div .case-study-images img {
 }
 
 .case-study-sidebar p strong a {
+    color: #45ac9d;
+    text-transform: uppercase;
+}
+
+.follow-us-link a {
+    font-family: 'Montserrat';
+    font-weight: 700;
     color: #45ac9d;
     text-transform: uppercase;
 }
