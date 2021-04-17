@@ -35,7 +35,9 @@ get_header(); ?>
 						<div class="third-width">
 							<li>
 								<figure>
-									<?php if($image_1) { ?> <img src="<?php echo $image_1; ?>" /> <?php } ?>
+									<a href="<?php the_permalink(); ?>">    
+										<?php if($image_1) { ?> <img src="<?php echo $image_1; ?>" /> <?php } ?>
+									</a>
 								</figure>
 							</li> 
 							<h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
